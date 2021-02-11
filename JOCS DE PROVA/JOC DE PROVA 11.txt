@@ -1,0 +1,5 @@
+Descripcio: Esborrem un kakuro des de la pestanya Repositori
+Objectius: Comprovar que el programa pot esborrar una partida
+Entrada: Posem nom usuari, donem a repositori, escollim el kakuro que volem esborrar, i premem a Esborrar.
+Sortida: S'ha esborrat el kakuro a la carpeta.
+Resoltat de la prova: ok

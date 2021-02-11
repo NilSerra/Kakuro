@@ -1,0 +1,5 @@
+Descripcio: Provar que la funcio verificar te el funcionament esperat
+Objectius: Comprovar que en premer el boto de verificar, les caselles que no estan ben posades es marquen en vermell
+Entrada: Posem nom usuari, donem a jugar, columnes 7 i files a 7, dificiltat normal i donem a generar. Anem omplint el kakuro amb numeros pseudoaleatoris.
+Sortida: Quan li donem a verificar, hi ha numeros marcats en vermell. Comprovem amb la solucio i son els que no estan be.
+Resoltat de la prova: ok

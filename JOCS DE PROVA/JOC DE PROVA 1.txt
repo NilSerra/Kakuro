@@ -1,0 +1,5 @@
+Descripcio: Provar que es capac de generar kakuros petits
+Objectius: Comprovar que no hi ha problemes amb kakuros petits
+Entrada: Posem nom usuari, donem a jugar, columnes i files a 5, dificiltat dificil i donem a generar.
+Sortida: Ha generat un kakuro 5x5 sense cap cel·la solucionada quasi instantaniament
+Resoltat de la prova: ok

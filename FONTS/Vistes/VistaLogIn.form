@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Vistes.VistaLogIn">
+  <grid id="27dc6" binding="panel" layout-manager="FlowLayout" hgap="0" vgap="0" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="934" height="729"/>
+    </constraints>
+    <properties>
+      <maximumSize width="350" height="400"/>
+      <minimumSize width="350" height="400"/>
+      <preferredSize width="350" height="400"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="f31e" binding="barraPrograma" layout-manager="GridBagLayout">
+        <constraints/>
+        <properties>
+          <background color="-15723229"/>
+          <enabled value="false"/>
+          <focusable value="false"/>
+          <foreground color="-1"/>
+          <maximumSize width="350" height="35"/>
+          <minimumSize width="350" height="35"/>
+          <preferredSize width="350" height="35"/>
+          <requestFocusEnabled value="false"/>
+          <verifyInputWhenFocusTarget value="false"/>
+        </properties>
+        <border type="none"/>
+        <children>
+          <grid id="6873f" binding="title" layout-manager="GridBagLayout">
+            <constraints>
+              <grid row="0" column="1" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+              <gridbag weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <alignmentX value="0.0"/>
+              <alignmentY value="0.0"/>
+              <maximumSize width="190" height="35"/>
+              <minimumSize width="190" height="35"/>
+              <opaque value="false"/>
+              <preferredSize width="190" height="35"/>
+            </properties>
+            <border type="none"/>
+            <children>
+              <component id="cbb7e" class="javax.swing.JLabel" binding="titleWindow">
+                <constraints>
+                  <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false">
+                    <minimum-size width="850" height="35"/>
+                    <preferred-size width="850" height="35"/>
+                    <maximum-size width="850" height="35"/>
+                  </grid>
+                  <gridbag weightx="1.0" weighty="1.0"/>
+                </constraints>
+                <properties>
+                  <background color="-15723229"/>
+                  <font name="Source Code Pro" size="26" style="0"/>
+                  <foreground color="-1"/>
+                  <horizontalAlignment value="0"/>
+                  <horizontalTextPosition value="0"/>
+                  <text value="Iniciar Sessió"/>
+                </properties>
+              </component>
+            </children>
+          </grid>
+          <component id="b23ec" class="javax.swing.JButton" binding="minimizeButton">
+            <constraints>
+              <grid row="0" column="2" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+              <gridbag weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <background color="-15723229"/>
+              <borderPainted value="false"/>
+              <contentAreaFilled value="true"/>
+              <defaultCapable value="false"/>
+              <doubleBuffered value="false"/>
+              <focusPainted value="false"/>
+              <font name="Consolas" size="10" style="0"/>
+              <icon value="Images/minus_icon.png"/>
+              <label value=""/>
+              <maximumSize width="40" height="35"/>
+              <minimumSize width="40" height="35"/>
+              <preferredSize width="40" height="35"/>
+              <requestFocusEnabled value="false"/>
+              <rolloverEnabled value="false"/>
+              <text value=""/>
+              <verifyInputWhenFocusTarget value="false"/>
+            </properties>
+          </component>
+          <component id="85968" class="javax.swing.JButton" binding="closeButton">
+            <constraints>
+              <grid row="0" column="3" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
+              <gridbag weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <background color="-65520"/>
+              <borderPainted value="false"/>
+              <contentAreaFilled value="true"/>
+              <defaultCapable value="false"/>
+              <doubleBuffered value="false"/>
+              <focusPainted value="false"/>
+              <font name="Consolas" size="10" style="0"/>
+              <icon value="Images/close_icon.png"/>
+              <label value=""/>
+              <maximumSize width="40" height="35"/>
+              <minimumSize width="40" height="35"/>
+              <preferredSize width="40" height="35"/>
+              <requestFocusEnabled value="false"/>
+              <rolloverEnabled value="false"/>
+              <text value=""/>
+              <verifyInputWhenFocusTarget value="false"/>
+            </properties>
+          </component>
+          <grid id="68955" layout-manager="GridLayoutManager" row-count="1" column-count="1" same-size-horizontally="false" same-size-vertically="false" hgap="-1" vgap="-1">
+            <margin top="0" left="0" bottom="0" right="0"/>
+            <constraints>
+              <grid row="0" column="0" row-span="1" col-span="1" vsize-policy="3" hsize-policy="3" anchor="0" fill="3" indent="0" use-parent-layout="false"/>
+              <gridbag weightx="0.0" weighty="0.0"/>
+            </constraints>
+            <properties>
+              <maximumSize width="80" height="35"/>
+              <minimumSize width="80" height="35"/>
+              <opaque value="false"/>
+              <preferredSize width="80" height="35"/>
+            </properties>
+            <border type="none"/>
+            <children/>
+          </grid>
+        </children>
+      </grid>
+    </children>
+  </grid>
+</form>

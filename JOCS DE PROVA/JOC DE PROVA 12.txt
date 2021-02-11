@@ -1,0 +1,5 @@
+Descripcio: Editem un kakuro des de la pestanya Repositori
+Objectius: Comprovar que el programa pot editar un kakuro a partir d'un que ja esta al repositori
+Entrada: Posem nom usuari, donem a repositori, escollim el kakuro que volem editar, i premem a Editar. Fem els canvis corresponents i verifiquem i guardem.
+Sortida: Se'ns ha mogut a la pestanya Editar. S'ha guardat el nou kakuro al repositori.
+Resoltat de la prova: ok

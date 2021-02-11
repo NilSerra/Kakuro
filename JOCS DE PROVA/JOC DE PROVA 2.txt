@@ -1,0 +1,5 @@
+Descripcio: Provar que es capac de generar kakuros mitjans no quadrats
+Objectius: Comprovar que no hi ha problemes amb kakuros no quadrats
+Entrada: Posem nom usuari, donem a jugar, columnes 9 i files a 7, dificiltat normal i donem a generar.
+Sortida: Ha generat un kakuro 7x9 amb alguna cel·la solucionada en menys d'un segon
+Resoltat de la prova: ok

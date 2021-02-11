@@ -1,0 +1,5 @@
+Descripcio: Editar un kakuro incorrecte (multiples solucions)
+Objectius: Veure que el programa pot reconeixer un kakuro amb mes d'una solucio 
+Entrada: Posem nom usuari, donem a editar, escollim la mida del kakuro i l'omplim. Donem a verificar i  no apareix l'opcio de posar un nom.
+Sortida: No s'ha guardat el kakuro corresponent al repositori. El kakuro tenia dues o mes solucions.
+Resoltat de la prova: ok

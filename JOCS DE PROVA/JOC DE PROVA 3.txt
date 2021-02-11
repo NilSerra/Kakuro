@@ -1,0 +1,5 @@
+Descripcio: Provar que es capac de generar kakuros grans
+Objectius: Comprovar que no hi ha problemes amb kakuros grans
+Entrada: Posem nom usuari, donem a jugar, columnes 10 i files a 10, dificiltat normal i donem a generar.
+Sortida: Ha generat un kakuro 10x10 amb alguna cel·la solucionada en dos minuts aproximadament
+Resoltat de la prova: ok

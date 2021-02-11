@@ -1,0 +1,5 @@
+Descripcio: Fem que la maquina resolgui un kakuro facil
+Objectius: Comprovar que la maquina resol be els kakuros
+Entrada: Posem nom usuari, donem a resoldre, escollim el kakuro que volem resoldre, i premem a Resoldre. 
+Sortida: se'ns mostra que el programa ha tardat 4ms en resoldre el kakuro
+Resoltat de la prova: ok

@@ -1,0 +1,5 @@
+Descripcio: Provar que les pistes donades son correctes
+Objectius: Comprovar que no hi ha cap pista donada incorrecta
+Entrada: Posem nom usuari, donem a jugar, columnes 9 i files a 7, dificiltat normal i donem a generar. Anem omplint el kakuro amb pistes fins que s'acaben les caselles.
+Sortida: Quan li donem a verificar, no hi ha cap casella en vermell i ens porta a ranking
+Resoltat de la prova: ok

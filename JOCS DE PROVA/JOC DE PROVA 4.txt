@@ -1,0 +1,6 @@
+Descripcio: Provar que es capac de generar kakuros i despres guardar-los per poder continuar en un altre moment
+Objectius: Comprovar que es pot guardar i tornar a on estavem
+Entrada: Posem nom usuari, donem a jugar, columnes 8 i files a 7, dificiltat normal i donem a generar. Omplim unes quantes casellles (incloent pistes). Temps esta a 1 min 23 segons i amb la ajuda activada
+Tanquem la app i tornem a obrir. Posem el mateix nom d'usuari, anem a jugar i premem continuar
+Sortida: El kakuro que hi ha en premer el boto es el mateix, amb les caselles ja posades, l'ajuda esta activada i el temps es el mateix que quan haviem guardat
+Resoltat de la prova: ok
